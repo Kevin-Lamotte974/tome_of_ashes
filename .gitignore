@@ -1,0 +1,37 @@
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration d'IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sauvegardes et données de jeu
+data/save.json
+
+# Assets générés
+assets/*.tmp
+assets/*.bak
+
+# Images temporaires de Piskel ou autres outils
+*.piskel
+*.aseprite
+
+# Fichiers de test ou temporaires
+*.tmp
+*.bak
